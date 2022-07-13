@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Principal Program Manager for .NET Client Apps at Microsoft, focused on Xamarin.Forms and .NET MAUI. A .NET developer since 2002, and versed in a range of programming languages, I have developed web, environmental, and mobile experiences for a wide variety of industries. After several successes with tech startups and running my own software company, I joined Microsoft to follow my passion: crafting tools that help developers create better app experiences. When not at a computer or with my family, I'm running trails through the woods.
+I am a Principal Product Manager for .NET Client Apps at Microsoft, focused on .NET MAUI. A .NET developer since 2002, and versed in a range of programming languages, I have developed web, environmental, and mobile experiences for a wide variety of industries. After several successes with tech startups and running my own software company, I joined Microsoft to follow my passion: crafting tools that help developers create better app experiences. 
 
 You can find me pubishing content regularly to these channels:
 

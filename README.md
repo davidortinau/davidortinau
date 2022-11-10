@@ -8,7 +8,6 @@ You can find me pubishing content regularly to these channels:
 - https://youtube.com/c/davidortinau
 - https://dev.to/davidortinau
 - https://devblogs.microsoft.com/xamarin/author/davidortinau/
-- <a rel="me" href="https://noc.social/@davidortinau">Mastodon</a>
 
 <!--
 **davidortinau/davidortinau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
